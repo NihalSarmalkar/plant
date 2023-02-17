@@ -1,0 +1,8 @@
+opencv-python
+tensorflow
+Flask
+gevent
+numpy
+scikit-image
+gunicorn
+Werkzeug
